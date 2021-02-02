@@ -24,7 +24,9 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'io.github.base:base:1.0-20210122'
+    implementation 'com.github.h4de5ing.base:base:1.0-20210125'//基础工具
+    implementation 'com.github.h4de5ing.gsoncommon:gsoncommon:1.0-20210122'//json解析工具
+    implementation 'com.github.h4de5ing.netlib:netlib:1.0-20210126'//网络工具
 }
 ```
 
