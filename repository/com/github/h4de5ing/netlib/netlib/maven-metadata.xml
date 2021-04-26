@@ -3,13 +3,14 @@
   <groupId>com.github.h4de5ing.netlib</groupId>
   <artifactId>netlib</artifactId>
   <versioning>
-    <release>1.0-20210204</release>
+    <release>1.0-20210426</release>
     <versions>
       <version>1.0-20210122</version>
       <version>1.0-20210126</version>
       <version>1.0-20210202</version>
       <version>1.0-20210204</version>
+      <version>1.0-20210426</version>
     </versions>
-    <lastUpdated>20210204014825</lastUpdated>
+    <lastUpdated>20210426081129</lastUpdated>
   </versioning>
 </metadata>
